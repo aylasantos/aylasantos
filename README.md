@@ -2,7 +2,7 @@
 <h4 align=center>I believe that Technology can be an element of social impact. <h4>
 <br>
 
-<h4 align= left>👤 Technician of Systems Development, I am 19 years old and currently studying to pursue a degree in Information Systems. <h4>
+<h4 align= left>👤 Technician of Systems Development, I am 19 years old and currently pursuing a degree in Information Systems. <h4>
 
 <div align="center"> 
   <h4>🔓 Tech Skills:</h4>
