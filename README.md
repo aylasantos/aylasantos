@@ -4,17 +4,6 @@
 
 <h4 align= left>👤 Technician of Systems Development, I am 19 years old and currently studying to pursue a degree in Information Systems. <h4>
 
-````
-<?php
-
-echo "I love programming, but i also have lively interests in UX/UI Design and Communication."; 
-
-?>
-````
-
-##
-
-
 <div align="center"> 
   <h4>🔓 Tech Skills:</h4>
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="54" height="54"/> <img src="https://clipground.com/images/html5-logo-2.png" alt="html5" width="45" height="45"/>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="46" height="45"/> 
