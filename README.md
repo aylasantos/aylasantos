@@ -1,8 +1,8 @@
 <h2 align=center>Hello, I'm Ayla! 👩🏾‍💻 </h2>
-<h4 align=center>I want to create unique experiences with code. <h4>
+<h4 align=center>I believe that Technology can an element of social impact. <h4>
 <br>
 
-<h4 align= left>👤 Student of Systems Development, I am 17 years old and currently studying to be a Full Stack Developer. <h4>
+<h4 align= left>👤 Technician of Systems Development, I am 19 years old and currently studying to pursue a degree in Information Systems. <h4>
 
 ````
 <?php
@@ -36,4 +36,4 @@ echo "I love programming, but i also have lively interests in UX/UI Design and C
 </div> 
 
 <h4>Let's talk?</h4>
- <a href="https://instagram.com/aylajuliaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:aylajfsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/aylasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:aylajfsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/aylasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
