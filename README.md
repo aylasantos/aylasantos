@@ -1,5 +1,5 @@
 <h2 align=center>Hello, I'm Ayla! 👩🏾‍💻 </h2>
-<h4 align=center>I believe that Technology can an element of social impact. <h4>
+<h4 align=center>I believe that Technology can be an element of social impact. <h4>
 <br>
 
 <h4 align= left>👤 Technician of Systems Development, I am 19 years old and currently studying to pursue a degree in Information Systems. <h4>
